@@ -71,3 +71,7 @@
     bottom: 8px;
     right: 5px;
   }
+
+  .video-preview:hover{
+    transform:translateY(-10px);
+  }
